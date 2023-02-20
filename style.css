@@ -1,7 +1,7 @@
 :root {
-    --primary: rgb(23 138 27);
-    --secondary: rgb(225 231 239);
-    --accent: rgb(240 180 40); 
+    --primary: #16a34a;
+    --secondary: #f0fdf4;
+    --accent: #166534; 
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     color: rgb(87, 87, 87);
 }
